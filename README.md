@@ -1,4 +1,9 @@
 # pwdm
-Semi-Secure Python password manager
 
-Currently on halt as of 11.11.2021
+## Description
+A simple Semi-Secure Python password manager
+Currently is in deep alpha.
+
+## Changelog
+
+30.11.2021 // Added a password generator
